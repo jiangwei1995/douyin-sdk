@@ -1,0 +1,19 @@
+{
+  "name": "douyin-sdk",
+  "version": "1.0.0",
+  "description": "douyin-sdk OpenApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangwei1995/douyin-sdk.git"
+  },
+  "author": "jw872505975@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangwei1995/douyin-sdk/issues"
+  },
+  "homepage": "https://github.com/jiangwei1995/douyin-sdk#readme"
+}

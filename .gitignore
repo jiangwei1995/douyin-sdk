@@ -1,0 +1,8 @@
+node_modules
+coverage
+.idea
+.vscode
+npm-debug.log
+package-lock.json
+.nyc_output
+env_test.sh
